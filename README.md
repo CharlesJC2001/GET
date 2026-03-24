@@ -1,6 +1,5 @@
 # GET
 GET is submitted to The Visual Computer.
-Jianxin Cai, 
 
 ## Installation
 
