@@ -1,5 +1,5 @@
 # GET
-GET is submitted to The Visual Computer.
+GET is submitted to KSII Transactions on Internet and Information Systems.
 
 ## Installation
 
